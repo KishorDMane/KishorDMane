@@ -55,7 +55,7 @@
 
 ##  <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="www.linkedin.com/in/kishor-mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-bhati-787319213" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kishor-mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/kishordmane/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kishor-mane" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -71,13 +71,13 @@
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kishordmane&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a>
+    <a href="https://github.com/kishordmane/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kishordmane&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a>
  
-<!--   <br>
+ <br>
     
-  <img alt="status github, commits, etc..." width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
+  <img alt="status github, commits, etc..." width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=kishordmane&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
  
-  <br> -->
+  <br>
   
 <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishordmane&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </p>
