@@ -30,6 +30,7 @@
 
 
 ## <picture></picture> **About me**
+- A highly motivated Backend Developer with extensive Node.js, MongoDB, and Express.js knowledge. Experienced in developing, testing, and deploying backend applications. Highly organized and detail-oriented, able to quickly understand complex requirements and work in a fast-paced environment. We are dedicated to providing excellent customer service and meeting project deadlines.
 
 -  🌱 I love to learn to code in differnt languages.
 
