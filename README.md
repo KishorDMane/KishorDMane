@@ -101,7 +101,5 @@ Portfolio:-  https://kishordmane.github.io/
 <!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kishordmane&theme=react-dark&hide_border=true" /></a>
-
-
+  <a><img alt="Kishor Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kishordmane&theme=react-dark&hide_border=true" /></a>
 
